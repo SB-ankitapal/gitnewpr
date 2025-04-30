@@ -4,6 +4,7 @@
     "id": "0uxztbrlah8vo"
   },
   "type": "object",
+  "description": "model2",
   "properties": {
     "id": {
       "type": "string",
@@ -22,7 +23,12 @@
       "x-stoplight": {
         "id": "bajtbjtmp9i37"
       }
+    },
+    "refmod": {
+      "$ref": "./model1.yaml",
+      "x-stoplight": {
+        "id": "rrwzicyt4z4df"
+      }
     }
-  },
-  "description": "model2"
+  }
 }
