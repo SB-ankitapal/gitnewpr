@@ -1,0 +1,28 @@
+{
+  "title": "model2",
+  "x-stoplight": {
+    "id": "0uxztbrlah8vo"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "ekx1sv4hrgb8l"
+      }
+    },
+    "opposite": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "w88ek7fhq7aub"
+      }
+    },
+    "direction": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "bajtbjtmp9i37"
+      }
+    }
+  },
+  "description": "model2"
+}

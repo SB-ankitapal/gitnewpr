@@ -1,0 +1,20 @@
+title: model1
+x-stoplight:
+  id: 1j1r3aan5s5r4
+x-tags:
+  - test
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: obz8qa21ht6u2
+  adress:
+    type: string
+    x-stoplight:
+      id: jgkaugkvyjzcd
+  time:
+    type: string
+    x-stoplight:
+      id: nt2ug506kiive
+description: model1
